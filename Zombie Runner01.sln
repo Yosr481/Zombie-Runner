@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Runner01.Plugins", "Zombie Runner01.Plugins.csproj", "{791BA9ED-E872-C9F0-3735-638BB0F3D1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Runner01.Editor.Plugins", "Zombie Runner01.Editor.Plugins.csproj", "{06A1E391-30AD-5A00-0985-8A49F5A956F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791BA9ED-E872-C9F0-3735-638BB0F3D1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791BA9ED-E872-C9F0-3735-638BB0F3D1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791BA9ED-E872-C9F0-3735-638BB0F3D1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791BA9ED-E872-C9F0-3735-638BB0F3D1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A1E391-30AD-5A00-0985-8A49F5A956F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A1E391-30AD-5A00-0985-8A49F5A956F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A1E391-30AD-5A00-0985-8A49F5A956F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A1E391-30AD-5A00-0985-8A49F5A956F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
